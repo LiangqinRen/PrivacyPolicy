@@ -1,1 +1,1 @@
-Very Stupid Memorandum will only collect users' name to call them, we will not share the name with anyone else.
+Stupid Memo will collect users' personal information such as their names, addresses, phone numbers, and emails to help them remember this information. Stupid Memo will only store this information and reply to users when they ask them. Stupid Memo will not give this information to anyone else.
